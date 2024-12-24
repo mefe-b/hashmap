@@ -30,3 +30,4 @@ puts hash_map.entries  # => [['banana', 'yellow']]
 # Haritayı temizleme
 # hash_map.clear
 puts hash_map.length   # => 0
+

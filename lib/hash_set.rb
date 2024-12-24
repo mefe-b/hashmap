@@ -13,3 +13,4 @@ class HashSet < HashMap
     has?(key)
   end
 end
+

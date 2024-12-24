@@ -45,3 +45,4 @@ class TestHashMap < Minitest::Test
     assert_equal 'value2', @hash_map.get('ke1y')
   end
 end
+
